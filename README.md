@@ -1,5 +1,5 @@
 # <h1 align="center">Cypress Web Automation Framework</h1>
-This tests written in Cypress [for](http://automationpractice.com/index.php) application
+## This tests written in Cypress [For](http://automationpractice.com/index.php) application
 
 ## Run Tests
 To run cart actions tests in interactive mode use following command

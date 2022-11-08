@@ -1,7 +1,7 @@
 # <h1 align="center">Cypress Web Automation Framework</h1>
 ## This tests written in Cypress For [http://automationpractice.com/index.php] application
 
-## Run Tests
+## :pushpin: Run Tests
 To run cart actions tests in interactive mode use following command
 - `npm init -y`
 - `npm install cypress`
@@ -9,7 +9,7 @@ To run cart actions tests in interactive mode use following command
 - `npx cypress run --browser chrome`
 
 
-## Dependencies
+## :pushpin: Dependencies
 
 - xpath
 - hit the command: 

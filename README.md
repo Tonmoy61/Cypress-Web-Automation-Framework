@@ -20,3 +20,6 @@ To run cart actions tests in interactive mode use following command
 - Cypress-mochawesome-reporter
 - `npm i --save-dev cypress-mochawesome-reporter`
 - `npx cypress run`
+
+:heavy_minus_sign: Mochawesome Reporter
+![](https://github.com/Tonmoy61/Cypress-Web-Automation-Framework/blob/master/report/report.png)

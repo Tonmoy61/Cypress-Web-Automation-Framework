@@ -15,7 +15,7 @@ To run cart actions tests in interactive mode use following command
 - hit the command: 
 - `npm install -D cypress-xpath`
 - Then include it project support command file:
-`require('cypress-xpath');`
+- `require('cypress-xpath');`
 
 - Cypress-mochawesome-reporter
 - `npm i --save-dev cypress-mochawesome-reporter`
